@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ImHereDEI</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_criar">criar</string>
+    <string name="title_activity_criacao">Criacao</string>
+    <string name="title_activity_choose_aps">ChooseAPs</string>
+    <string name="title_activity_calibrating">Calibrating</string>
+    <string name="title_activity_estou_aqui">EstouAqui</string>
+    <string name="title_activity_mapa">mapa</string>
+    <string name="title_activity_defenicoes">Defenicoes</string>
+    <string name="title_activity_carrega_mapa">CarregaMapa</string>
+</resources>
